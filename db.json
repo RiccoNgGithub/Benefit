@@ -1,0 +1,19 @@
+{
+  "benefits":
+  {
+    "name": "account.membership_level_2x_points_birthday",
+    "enabled": true,
+    "image": "https://ate-hk-blockchain-customer-app-resources.s3.ap-east-1.amazonaws.com/app_image/benefit_gift.png"
+  },
+  get_transaction_histories:
+  {
+    "currentPointValue": 703,
+  }
+  "histories": 
+  {
+    "name": "history.point_earning",
+    "eventDate": "2020-04-03T13:58:06+0000",
+    "type": "credit",
+    "changePointsValue": 200
+  }
+}
